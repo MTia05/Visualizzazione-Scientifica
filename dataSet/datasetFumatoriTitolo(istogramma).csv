@@ -1,0 +1,5 @@
+﻿FREQ;Frequenza;DATA_TYPE;Indicatore;MEASURE;Misura;SEX;Sesso;AGE;Età;EDU_LEV_HIGHEST;Titolo di studio;TIME_PERIOD;Osservazione;OBS_STATUS;'Stato dell"'osservazione'
+A;Annuale;14_FUMO_SI;Persone di 14 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;Y_GE14;14 anni e più;3;Licenza di scuola elementare, nessun titolo di studio;2024;693;;
+A;Annuale;14_FUMO_SI;Persone di 14 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;Y_GE14;14 anni e più;4;Licenza di scuola media;2024;3465;;
+A;Annuale;14_FUMO_SI;Persone di 14 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;Y_GE14;14 anni e più;7;Diploma;2024;4629;;
+A;Annuale;14_FUMO_SI;Persone di 14 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;Y_GE14;14 anni e più;11;Laurea e post-laurea;2024;1491;;

@@ -1,0 +1,173 @@
+IND_ID,IND_CODE,IND_UUID,IND_PER_CODE,DIM_TIME,DIM_TIME_TYPE,DIM_GEO_CODE_M49,DIM_GEO_CODE_TYPE,DIM_PUBLISH_STATE_CODE,IND_NAME,GEO_NAME_SHORT,DIM_SEX,PERCENT_POP_N,PERCENT_POP_NL,PERCENT_POP_NU
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,484,COUNTRY,PUBLISHED,Tobacco use,Mexico,TOTAL,14.1,11.6,16.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,496,COUNTRY,PUBLISHED,Tobacco use,Mongolia,TOTAL,29.2,22.9,35.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,498,COUNTRY,PUBLISHED,Tobacco use,Republic of Moldova,TOTAL,30.5,23.2,37.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,499,COUNTRY,PUBLISHED,Tobacco use,Montenegro,TOTAL,31.5,18.1,44.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,504,COUNTRY,PUBLISHED,Tobacco use,Morocco,TOTAL,12.2,8.1,16.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,512,COUNTRY,PUBLISHED,Tobacco use,Oman,TOTAL,8.6,6.1,11.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,516,COUNTRY,PUBLISHED,Tobacco use,Namibia,TOTAL,13.2,7.9,18.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,520,COUNTRY,PUBLISHED,Tobacco use,Nauru,TOTAL,46.7,29.0,64.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,524,COUNTRY,PUBLISHED,Tobacco use,Nepal,TOTAL,25.7,19.8,31.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,528,COUNTRY,PUBLISHED,Tobacco use,Netherlands (Kingdom of the),TOTAL,19.9,15.8,24.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,554,COUNTRY,PUBLISHED,Tobacco use,New Zealand,TOTAL,10.9,8.9,12.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,562,COUNTRY,PUBLISHED,Tobacco use,Niger,TOTAL,7.5,4.0,11.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,566,COUNTRY,PUBLISHED,Tobacco use,Nigeria,TOTAL,2.8,1.6,4.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,578,COUNTRY,PUBLISHED,Tobacco use,Norway,TOTAL,12.2,10.1,14.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,584,COUNTRY,PUBLISHED,Tobacco use,Marshall Islands,TOTAL,30.4,21.6,39.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,585,COUNTRY,PUBLISHED,Tobacco use,Palau,TOTAL,16.6,10.6,22.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,586,COUNTRY,PUBLISHED,Tobacco use,Pakistan,TOTAL,17.2,12.7,21.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,591,COUNTRY,PUBLISHED,Tobacco use,Panama,TOTAL,4.5,3.1,6.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,598,COUNTRY,PUBLISHED,Tobacco use,Papua New Guinea,TOTAL,38.1,24.5,51.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,600,COUNTRY,PUBLISHED,Tobacco use,Paraguay,TOTAL,9.4,5.1,13.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,604,COUNTRY,PUBLISHED,Tobacco use,Peru,TOTAL,5.8,3.6,8.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,400,COUNTRY,PUBLISHED,Tobacco use,Jordan,TOTAL,36.3,27.2,45.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,404,COUNTRY,PUBLISHED,Tobacco use,Kenya,TOTAL,9.9,6.8,13.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,408,COUNTRY,PUBLISHED,Tobacco use,Democratic People's Republic of Korea,TOTAL,15.4,10.3,20.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,410,COUNTRY,PUBLISHED,Tobacco use,Republic of Korea,TOTAL,18.5,14.6,22.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,414,COUNTRY,PUBLISHED,Tobacco use,Kuwait,TOTAL,20.0,10.8,29.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,417,COUNTRY,PUBLISHED,Tobacco use,Kyrgyzstan,TOTAL,26.9,17.5,36.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,418,COUNTRY,PUBLISHED,Tobacco use,Lao People's Democratic Republic,TOTAL,25.1,18.5,31.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,34.1,23.1,45.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,426,COUNTRY,PUBLISHED,Tobacco use,Lesotho,TOTAL,24.1,16.4,31.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,428,COUNTRY,PUBLISHED,Tobacco use,Latvia,TOTAL,32.6,25.8,39.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,430,COUNTRY,PUBLISHED,Tobacco use,Liberia,TOTAL,7.5,4.1,10.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,440,COUNTRY,PUBLISHED,Tobacco use,Lithuania,TOTAL,30.2,22.6,37.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,442,COUNTRY,PUBLISHED,Tobacco use,Luxembourg,TOTAL,22.3,16.8,27.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,450,COUNTRY,PUBLISHED,Tobacco use,Madagascar,TOTAL,25.1,17.9,32.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,454,COUNTRY,PUBLISHED,Tobacco use,Malawi,TOTAL,8.6,6.4,10.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,458,COUNTRY,PUBLISHED,Tobacco use,Malaysia,TOTAL,21.0,14.9,27.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,462,COUNTRY,PUBLISHED,Tobacco use,Maldives,TOTAL,24.9,17.5,32.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,466,COUNTRY,PUBLISHED,Tobacco use,Mali,TOTAL,7.3,5.1,9.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,470,COUNTRY,PUBLISHED,Tobacco use,Malta,TOTAL,23.9,16.5,31.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,478,COUNTRY,PUBLISHED,Tobacco use,Mauritania,TOTAL,8.4,5.8,11.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,480,COUNTRY,PUBLISHED,Tobacco use,Mauritius,TOTAL,20.5,13.0,28.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,288,COUNTRY,PUBLISHED,Tobacco use,Ghana,TOTAL,3.1,1.9,4.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,296,COUNTRY,PUBLISHED,Tobacco use,Kiribati,TOTAL,36.8,25.8,47.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,300,COUNTRY,PUBLISHED,Tobacco use,Greece,TOTAL,30.6,20.0,41.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,320,COUNTRY,PUBLISHED,Tobacco use,Guatemala,TOTAL,11.8,6.7,16.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,328,COUNTRY,PUBLISHED,Tobacco use,Guyana,TOTAL,9.7,6.0,13.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,332,COUNTRY,PUBLISHED,Tobacco use,Haiti,TOTAL,7.8,5.0,10.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,340,COUNTRY,PUBLISHED,Tobacco use,Honduras,TOTAL,11.9,8.1,15.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,348,COUNTRY,PUBLISHED,Tobacco use,Hungary,TOTAL,31.5,23.0,40.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,352,COUNTRY,PUBLISHED,Tobacco use,Iceland,TOTAL,7.9,6.2,9.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,356,COUNTRY,PUBLISHED,Tobacco use,India,TOTAL,21.8,16.8,26.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,360,COUNTRY,PUBLISHED,Tobacco use,Indonesia,TOTAL,38.7,30.8,46.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,364,COUNTRY,PUBLISHED,Tobacco use,Iran (Islamic Republic of),TOTAL,12.5,8.7,16.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,368,COUNTRY,PUBLISHED,Tobacco use,Iraq,TOTAL,19.2,8.0,30.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,372,COUNTRY,PUBLISHED,Tobacco use,Ireland,TOTAL,17.8,13.9,21.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,376,COUNTRY,PUBLISHED,Tobacco use,Israel,TOTAL,19.2,14.4,24.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,380,COUNTRY,PUBLISHED,Tobacco use,Italy,TOTAL,22.1,18.2,26.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,384,COUNTRY,PUBLISHED,Tobacco use,Côte d'Ivoire,TOTAL,8.0,4.3,11.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,388,COUNTRY,PUBLISHED,Tobacco use,Jamaica,TOTAL,9.0,5.2,12.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,392,COUNTRY,PUBLISHED,Tobacco use,Japan,TOTAL,17.8,14.6,21.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,398,COUNTRY,PUBLISHED,Tobacco use,Kazakhstan,TOTAL,20.9,16.7,25.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,178,COUNTRY,PUBLISHED,Tobacco use,Congo,TOTAL,16.3,7.8,24.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,180,COUNTRY,PUBLISHED,Tobacco use,Democratic Republic of the Congo,TOTAL,11.5,6.7,16.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,184,COUNTRY,PUBLISHED,Tobacco use,Cook Islands,TOTAL,25.8,20.0,31.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,188,COUNTRY,PUBLISHED,Tobacco use,Costa Rica,TOTAL,8.1,5.4,10.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,191,COUNTRY,PUBLISHED,Tobacco use,Croatia,TOTAL,37.6,26.9,48.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,192,COUNTRY,PUBLISHED,Tobacco use,Cuba,TOTAL,15.7,11.2,20.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,196,COUNTRY,PUBLISHED,Tobacco use,Cyprus,TOTAL,35.0,24.3,45.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,203,COUNTRY,PUBLISHED,Tobacco use,Czechia,TOTAL,29.4,23.3,35.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,204,COUNTRY,PUBLISHED,Tobacco use,Benin,TOTAL,5.5,3.5,7.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,208,COUNTRY,PUBLISHED,Tobacco use,Denmark,TOTAL,14.4,11.6,17.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,214,COUNTRY,PUBLISHED,Tobacco use,Dominican Republic,TOTAL,9.8,6.3,13.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,218,COUNTRY,PUBLISHED,Tobacco use,Ecuador,TOTAL,9.8,6.0,13.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,222,COUNTRY,PUBLISHED,Tobacco use,El Salvador,TOTAL,8.3,5.0,11.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,231,COUNTRY,PUBLISHED,Tobacco use,Ethiopia,TOTAL,5.1,3.6,6.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,233,COUNTRY,PUBLISHED,Tobacco use,Estonia,TOTAL,26.4,21.1,31.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,242,COUNTRY,PUBLISHED,Tobacco use,Fiji,TOTAL,27.0,18.6,35.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,246,COUNTRY,PUBLISHED,Tobacco use,Finland,TOTAL,20.7,16.8,24.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,250,COUNTRY,PUBLISHED,Tobacco use,France,TOTAL,34.6,26.1,43.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,268,COUNTRY,PUBLISHED,Tobacco use,Georgia,TOTAL,31.6,23.8,39.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,270,COUNTRY,PUBLISHED,Tobacco use,Gambia,TOTAL,9.5,6.1,12.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,276,COUNTRY,PUBLISHED,Tobacco use,Germany,TOTAL,19.7,16.1,23.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,68,COUNTRY,PUBLISHED,Tobacco use,Bolivia (Plurinational State of),TOTAL,11.1,4.9,17.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,70,COUNTRY,PUBLISHED,Tobacco use,Bosnia and Herzegovina,TOTAL,35.2,15.5,54.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,72,COUNTRY,PUBLISHED,Tobacco use,Botswana,TOTAL,17.6,12.8,22.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,76,COUNTRY,PUBLISHED,Tobacco use,Brazil,TOTAL,11.1,7.8,14.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,84,COUNTRY,PUBLISHED,Tobacco use,Belize,TOTAL,8.3,5.3,11.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,90,COUNTRY,PUBLISHED,Tobacco use,Solomon Islands,TOTAL,36.1,21.9,50.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,96,COUNTRY,PUBLISHED,Tobacco use,Brunei Darussalam,TOTAL,16.4,10.8,22.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,100,COUNTRY,PUBLISHED,Tobacco use,Bulgaria,TOTAL,38.8,26.1,51.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,104,COUNTRY,PUBLISHED,Tobacco use,Myanmar,TOTAL,42.3,28.7,56.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,108,COUNTRY,PUBLISHED,Tobacco use,Burundi,TOTAL,10.1,5.4,14.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,112,COUNTRY,PUBLISHED,Tobacco use,Belarus,TOTAL,28.9,21.7,36.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,116,COUNTRY,PUBLISHED,Tobacco use,Cambodia,TOTAL,15.3,11.3,19.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,120,COUNTRY,PUBLISHED,Tobacco use,Cameroon,TOTAL,5.8,3.7,7.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,124,COUNTRY,PUBLISHED,Tobacco use,Canada,TOTAL,10.7,8.9,12.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,132,COUNTRY,PUBLISHED,Tobacco use,Cabo Verde,TOTAL,10.2,7.0,13.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,144,COUNTRY,PUBLISHED,Tobacco use,Sri Lanka,TOTAL,18.5,13.6,23.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,148,COUNTRY,PUBLISHED,Tobacco use,Chad,TOTAL,7.0,4.6,9.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,152,COUNTRY,PUBLISHED,Tobacco use,Chile,TOTAL,27.0,21.3,32.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,156,COUNTRY,PUBLISHED,Tobacco use,China,TOTAL,22.9,18.0,27.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,170,COUNTRY,PUBLISHED,Tobacco use,Colombia,TOTAL,7.5,5.3,9.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,174,COUNTRY,PUBLISHED,Tobacco use,Comoros,TOTAL,15.5,9.3,21.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,1,GLOBAL,PUBLISHED,Tobacco use,World,TOTAL,19.8,,
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,4,COUNTRY,PUBLISHED,Tobacco use,Afghanistan,TOTAL,21.3,14.8,27.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,8,COUNTRY,PUBLISHED,Tobacco use,Albania,TOTAL,20.7,14.7,26.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,12,COUNTRY,PUBLISHED,Tobacco use,Algeria,TOTAL,21.1,14.7,27.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,20,COUNTRY,PUBLISHED,Tobacco use,Andorra,TOTAL,36.4,22.8,50.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,31,COUNTRY,PUBLISHED,Tobacco use,Azerbaijan,TOTAL,18.7,11.9,25.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,32,COUNTRY,PUBLISHED,Tobacco use,Argentina,TOTAL,22.6,16.9,28.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,36,COUNTRY,PUBLISHED,Tobacco use,Australia,TOTAL,12.0,9.5,14.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,40,COUNTRY,PUBLISHED,Tobacco use,Austria,TOTAL,22.5,16.8,28.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,44,COUNTRY,PUBLISHED,Tobacco use,Bahamas,TOTAL,11.3,7.8,14.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,48,COUNTRY,PUBLISHED,Tobacco use,Bahrain,TOTAL,14.3,8.7,20.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,50,COUNTRY,PUBLISHED,Tobacco use,Bangladesh,TOTAL,30.8,23.1,38.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,51,COUNTRY,PUBLISHED,Tobacco use,Armenia,TOTAL,24.1,18.1,30.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,52,COUNTRY,PUBLISHED,Tobacco use,Barbados,TOTAL,6.7,3.6,9.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,56,COUNTRY,PUBLISHED,Tobacco use,Belgium,TOTAL,26.3,20.2,32.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,64,COUNTRY,PUBLISHED,Tobacco use,Bhutan,TOTAL,17.6,12.6,22.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,860,COUNTRY,PUBLISHED,Tobacco use,Uzbekistan,TOTAL,15.8,10.9,20.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,882,COUNTRY,PUBLISHED,Tobacco use,Samoa,TOTAL,20.8,12.5,29.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,887,COUNTRY,PUBLISHED,Tobacco use,Yemen,TOTAL,20.6,9.3,32.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,894,COUNTRY,PUBLISHED,Tobacco use,Zambia,TOTAL,14.1,10.6,17.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,953,WHOREGION,PUBLISHED,Tobacco use,Africa,TOTAL,8.9,,
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,954,WHOREGION,PUBLISHED,Tobacco use,Americas,TOTAL,15.6,,
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,955,WHOREGION,PUBLISHED,Tobacco use,South-East Asia,TOTAL,24.6,,
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,956,WHOREGION,PUBLISHED,Tobacco use,Europe,TOTAL,24.4,,
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,957,WHOREGION,PUBLISHED,Tobacco use,Eastern Mediterranean,TOTAL,17.5,,
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,958,WHOREGION,PUBLISHED,Tobacco use,Western Pacific,TOTAL,21.8,,
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,724,COUNTRY,PUBLISHED,Tobacco use,Spain,TOTAL,27.8,21.6,33.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,748,COUNTRY,PUBLISHED,Tobacco use,Eswatini,TOTAL,9.3,5.8,12.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,752,COUNTRY,PUBLISHED,Tobacco use,Sweden,TOTAL,20.5,16.9,24.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,756,COUNTRY,PUBLISHED,Tobacco use,Switzerland,TOTAL,25.3,19.7,30.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,764,COUNTRY,PUBLISHED,Tobacco use,Thailand,TOTAL,18.3,14.4,22.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,768,COUNTRY,PUBLISHED,Tobacco use,Togo,TOTAL,5.7,3.3,8.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,776,COUNTRY,PUBLISHED,Tobacco use,Tonga,TOTAL,31.1,22.0,40.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,784,COUNTRY,PUBLISHED,Tobacco use,United Arab Emirates,TOTAL,8.2,4.8,11.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,788,COUNTRY,PUBLISHED,Tobacco use,Tunisia,TOTAL,19.5,13.6,25.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,792,COUNTRY,PUBLISHED,Tobacco use,Türkiye,TOTAL,30.2,24.2,36.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,795,COUNTRY,PUBLISHED,Tobacco use,Turkmenistan,TOTAL,4.9,2.7,7.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,798,COUNTRY,PUBLISHED,Tobacco use,Tuvalu,TOTAL,32.2,22.5,41.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,800,COUNTRY,PUBLISHED,Tobacco use,Uganda,TOTAL,6.4,4.5,8.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,804,COUNTRY,PUBLISHED,Tobacco use,Ukraine,TOTAL,23.6,18.9,28.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,818,COUNTRY,PUBLISHED,Tobacco use,Egypt,TOTAL,25.8,18.4,33.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,826,COUNTRY,PUBLISHED,Tobacco use,United Kingdom of Great Britain and Northern Ireland,TOTAL,12.5,9.9,15.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,834,COUNTRY,PUBLISHED,Tobacco use,United Republic of Tanzania,TOTAL,8.1,5.4,10.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,840,COUNTRY,PUBLISHED,Tobacco use,United States of America,TOTAL,23.6,18.1,29.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,854,COUNTRY,PUBLISHED,Tobacco use,Burkina Faso,TOTAL,13.1,6.8,19.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,858,COUNTRY,PUBLISHED,Tobacco use,Uruguay,TOTAL,19.1,15.3,22.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,608,COUNTRY,PUBLISHED,Tobacco use,Philippines,TOTAL,19.1,15.0,23.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,616,COUNTRY,PUBLISHED,Tobacco use,Poland,TOTAL,22.1,17.0,27.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,620,COUNTRY,PUBLISHED,Tobacco use,Portugal,TOTAL,25.8,19.5,32.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,624,COUNTRY,PUBLISHED,Tobacco use,Guinea-Bissau,TOTAL,7.3,4.0,10.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,626,COUNTRY,PUBLISHED,Tobacco use,Timor-Leste,TOTAL,37.2,24.6,49.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,634,COUNTRY,PUBLISHED,Tobacco use,Qatar,TOTAL,12.5,7.4,17.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,642,COUNTRY,PUBLISHED,Tobacco use,Romania,TOTAL,29.3,22.5,36.0
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,643,COUNTRY,PUBLISHED,Tobacco use,Russian Federation,TOTAL,28.9,23.2,34.5
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,646,COUNTRY,PUBLISHED,Tobacco use,Rwanda,TOTAL,13.5,6.2,20.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,662,COUNTRY,PUBLISHED,Tobacco use,Saint Lucia,TOTAL,13.3,9.5,17.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,678,COUNTRY,PUBLISHED,Tobacco use,Sao Tome and Principe,TOTAL,8.1,5.4,10.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,15.0,10.4,19.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,686,COUNTRY,PUBLISHED,Tobacco use,Senegal,TOTAL,5.8,4.0,7.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,688,COUNTRY,PUBLISHED,Tobacco use,Serbia,TOTAL,39.0,30.8,47.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,690,COUNTRY,PUBLISHED,Tobacco use,Seychelles,TOTAL,19.7,12.1,27.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,694,COUNTRY,PUBLISHED,Tobacco use,Sierra Leone,TOTAL,11.0,7.1,14.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,702,COUNTRY,PUBLISHED,Tobacco use,Singapore,TOTAL,16.2,10.5,21.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,703,COUNTRY,PUBLISHED,Tobacco use,Slovakia,TOTAL,32.8,18.8,46.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,704,COUNTRY,PUBLISHED,Tobacco use,Viet Nam,TOTAL,21.7,16.6,26.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,705,COUNTRY,PUBLISHED,Tobacco use,Slovenia,TOTAL,19.5,15.6,23.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,710,COUNTRY,PUBLISHED,Tobacco use,South Africa,TOTAL,20.5,15.1,25.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,716,COUNTRY,PUBLISHED,Tobacco use,Zimbabwe,TOTAL,10.4,6.3,14.5

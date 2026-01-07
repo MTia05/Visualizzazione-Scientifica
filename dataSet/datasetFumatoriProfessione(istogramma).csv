@@ -1,0 +1,11 @@
+﻿FREQ;Frequenza;DATA_TYPE;Indicatore;MEASURE;Misura;SEX;Sesso;LABOUR_PROFESS_STATUS_B;Condizione e posizione nella professione;TIME_PERIOD;Osservazione;OBS_STATUS;'Stato dell"'osservazione'
+A;Annuale;15_FUMO_SI;Persone di 15 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;1A;Dirigenti, imprenditori, liberi professionisti;2024;689;;
+A;Annuale;15_FUMO_SI;Persone di 15 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;1B;Direttivo, quadro, impiegato;2024;1998;;
+A;Annuale;15_FUMO_SI;Persone di 15 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;1C;Operaio, apprendista;2024;2634;;
+A;Annuale;15_FUMO_SI;Persone di 15 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;1D;Lavoratore in proprio, coadiuvante familiare, co.co.co.;2024;605;;
+A;Annuale;15_FUMO_SI;Persone di 15 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;2;Disoccupato alla ricerca di nuova occupazione;2024;1052;;
+A;Annuale;15_FUMO_SI;Persone di 15 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;3;In cerca di prima occupazione;2024;249;;
+A;Annuale;15_FUMO_SI;Persone di 15 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;4;Casalinga-o;2024;989;;
+A;Annuale;15_FUMO_SI;Persone di 15 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;5;Studente;2024;604;;
+A;Annuale;15_FUMO_SI;Persone di 15 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;6;Ritirato-a dal lavoro;2024;1291;;
+A;Annuale;15_FUMO_SI;Persone di 15 anni e più per abitudine al fumo: fumatori;THV;Valori in migliaia;9;Totale;7;In altra condizione;2024;165;;
