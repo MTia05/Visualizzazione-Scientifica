@@ -27,7 +27,6 @@ La repository è organizzata come segue per facilitare la navigazione e la ripro
 * **[`dataSet/`](./dataSet/)**: Tutti i file di input in formato `.csv` utilizzati per le analisi.
 * **[`grafici/`](./grafici/)**: Raccolta dei risultati finali esportati (plot statici).
 * **[📄 Presentazione PDF](VisualizzazioneScientifica.pdf)**: Documentazione completa del lavoro svolto.
-* **[🎨 Presentazione Interattiva (Canva)](IL_TUO_LINK_DI_CANVA_QUI)**: Link alla presentazione dinamica del progetto.
 ---
 
 ## 🛠️ Tecnologie Utilizzate
