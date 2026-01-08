@@ -1,0 +1,37 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Risk factor,Measure,Value,Lower bound,Upper bound
+All Population,Italy,1990,All ages,Both,All causes,Smoking,Deaths,81904.86366986195,69231.62735972612,95514.60700210065
+All Population,Italy,1991,All ages,Both,All causes,Smoking,Deaths,81567.10598306055,69065.12137879246,95170.70740156659
+All Population,Italy,1992,All ages,Both,All causes,Smoking,Deaths,79404.25074942505,67298.47284108803,92491.02065533708
+All Population,Italy,1993,All ages,Both,All causes,Smoking,Deaths,78735.80492046944,66512.03852931998,91561.87816178877
+All Population,Italy,1994,All ages,Both,All causes,Smoking,Deaths,77948.65246312975,65685.43540432357,90880.55600883855
+All Population,Italy,1995,All ages,Both,All causes,Smoking,Deaths,76905.49645748871,64894.187790413205,89501.60612097406
+All Population,Italy,1996,All ages,Both,All causes,Smoking,Deaths,75278.60114765957,63239.824958193945,87812.38942319484
+All Population,Italy,1997,All ages,Both,All causes,Smoking,Deaths,75076.4477686609,63129.60751699649,86823.08955164964
+All Population,Italy,1998,All ages,Both,All causes,Smoking,Deaths,75956.78396047105,64099.8197152943,87790.93954559267
+All Population,Italy,1999,All ages,Both,All causes,Smoking,Deaths,74546.1242688412,62418.86132839203,86241.43977260918
+All Population,Italy,2000,All ages,Both,All causes,Smoking,Deaths,72316.15834919052,60096.89321296076,84434.76609589257
+All Population,Italy,2001,All ages,Both,All causes,Smoking,Deaths,70984.83559039362,59051.68243181578,82044.22534206226
+All Population,Italy,2002,All ages,Both,All causes,Smoking,Deaths,70794.01752306399,58495.16041226746,82297.9854981143
+All Population,Italy,2003,All ages,Both,All causes,Smoking,Deaths,72439.11088916477,59888.91029311949,84856.50231405685
+All Population,Italy,2004,All ages,Both,All causes,Smoking,Deaths,68127.72908786684,56367.241458816985,79486.97266843643
+All Population,Italy,2005,All ages,Both,All causes,Smoking,Deaths,68148.27946211402,55842.6650627347,79888.98478770151
+All Population,Italy,2006,All ages,Both,All causes,Smoking,Deaths,66004.1128417882,54433.619028778056,77293.62280955684
+All Population,Italy,2007,All ages,Both,All causes,Smoking,Deaths,65470.48510198853,53740.88649166944,77012.37694414651
+All Population,Italy,2008,All ages,Both,All causes,Smoking,Deaths,64908.15726851744,53963.35221123954,76788.23113691217
+All Population,Italy,2009,All ages,Both,All causes,Smoking,Deaths,64254.43600934278,53553.72988427554,76561.54259341618
+All Population,Italy,2010,All ages,Both,All causes,Smoking,Deaths,62353.28035585097,51479.92974031273,74712.46429895077
+All Population,Italy,2011,All ages,Both,All causes,Smoking,Deaths,61946.22396967232,51428.59773169833,74511.0861653467
+All Population,Italy,2012,All ages,Both,All causes,Smoking,Deaths,61398.845685497225,50841.636430448365,73529.25671761388
+All Population,Italy,2013,All ages,Both,All causes,Smoking,Deaths,59087.62701303898,48462.77444051601,71345.39161886077
+All Population,Italy,2014,All ages,Both,All causes,Smoking,Deaths,57858.87094687473,47443.43445605728,70345.25210649095
+All Population,Italy,2015,All ages,Both,All causes,Smoking,Deaths,59350.542736597294,47785.18287359952,72440.21077104054
+All Population,Italy,2016,All ages,Both,All causes,Smoking,Deaths,56971.6182466343,46033.05786646802,70250.70968685763
+All Population,Italy,2017,All ages,Both,All causes,Smoking,Deaths,57929.26415519003,46860.18635563833,72094.30242770807
+All Population,Italy,2018,All ages,Both,All causes,Smoking,Deaths,55879.04957102409,44640.87953786909,69235.99517494065
+All Population,Italy,2019,All ages,Both,All causes,Smoking,Deaths,55312.915831882616,44052.57517242412,68939.3206790352
+All Population,Italy,2020,All ages,Both,All causes,Smoking,Deaths,54913.55854324227,43441.09320579558,68434.88885142913
+All Population,Italy,2021,All ages,Both,All causes,Smoking,Deaths,52410.47057863033,41273.05315385928,65101.10110332668
+All Population,Italy,2022,All ages,Both,All causes,Smoking,Deaths,53859.37896229644,42302.35483980437,66369.9091287417
+All Population,Italy,2023,All ages,Both,All causes,Smoking,Deaths,52601.22271462576,40938.62344396608,66149.19268726849
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 12/30/2025). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"
