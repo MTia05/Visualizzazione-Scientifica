@@ -26,7 +26,7 @@ La repository è organizzata come segue per facilitare la navigazione e la ripro
 * **[`codici/`](./codici/)**: Notebook Jupyter (formato `.ipynb` di Google Colab) contenenti la pipeline di elaborazione, pulizia e generazione dei grafici.
 * **[`dataSet/`](./dataSet/)**: Tutti i file di input in formato `.csv` utilizzati per le analisi.
 * **[`grafici/`](./grafici/)**: Raccolta dei risultati finali esportati (plot statici).
-* **[📄 Presentazione PDF](VisualizzazioneScientifica.pdf)**: Documentazione completa del lavoro svolto.
+* **[Presentazione PDF](VisualizzazioneScientifica.pdf)**: Documentazione completa del lavoro svolto.
 ---
 
 ## Tecnologie Utilizzate
