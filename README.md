@@ -47,7 +47,7 @@ L'analisi è stata suddivisa in diverse fasi, ognuna documentata all'interno dei
 
 ---
 
-## 🚀 Come Eseguire i Notebook
+## Come Eseguire i Notebook
 1.  Accedere alla cartella `codici/`.
 2.  Aprire i file `.ipynb` tramite **Google Colab**.
 3.  Assicurarsi di caricare i file necessari dalla cartella `dataSet/`.
